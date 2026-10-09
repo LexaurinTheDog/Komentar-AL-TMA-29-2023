@@ -358,11 +358,25 @@ Dispozita ka rëndësi kryesisht për jorezidentët që realizojnë të ardhura 
 >
 > 2. Tabela e tatimit mbi të ardhurat personale nga punësimi për periudhën nga 1 qershor 2023 deri më 31 dhjetor 2024 është si më poshtë:
 >
-> E ardhura nga paga në | lekë/muaj | Nga | Deri në | 0 | 50 000 | 50 001 | 60 000 | 60 001 | Më | tepër
+> E ardhura nga paga në E ardhura e tatueshme në Norma tatimore në
 >
-> E ardhura e tatueshme në | lekë/muaj | Nga | Deri në | 0 | 50 000 | 0 | 35 000 | 35 001 | 60 000 | 0 | 30 000 | 30 001 | 200 000 | 200 001 | Më tepër
+> lekë/muaj lekë/muaj përqindje/mujore
 >
-> Norma tatimore në | përqindje/mujore | 0% | 0% | 13% të shumës mbi 35 000 lekë | 0% | 13% e shumës mbi 30 000 lekë | 22 100 lekë + 23% të shumës mbi | 200 000 lekë
+> Nga Deri në Nga Deri në
+>
+> 0 50 000 0 50 000 0%
+>
+> 0 35 000 0%
+>
+> 50 001 60 000 35 001 60 000 13% të shumës mbi 35 000 lekë
+>
+> 0 30 000 0%
+>
+> 30 001 200 000 13% e shumës mbi 30 000 lekë
+>
+> 60 001 Më 200 001 Më tepër 22 100 lekë + 23% të shumës mbi
+>
+> tepër 200 000 lekë
 >
 > 3. Neni 54 i këtij ligji aplikohet për humbjet e krijuara nga viti 2024 e në vijim.
 >
@@ -378,7 +392,7 @@ Dispozita ka rëndësi kryesisht për jorezidentët që realizojnë të ardhura 
 
 Neni 69 përmban dispozitat kalimtare dhe është ndryshuar disa herë (aktet normative nr. 2/2023, nr. 7/2023 dhe nr. 4/2024, si dhe ligji nr. 9/2025). Pika 1 ruan disa lehtësi të ligjit të shfuqizuar nr. 8438/1998: norma 5 për qind për agroturizmin, shoqëritë e bashkëpunimit bujqësor sipas ligjit nr. 38/2012 dhe industrinë automotive deri më 31 dhjetor 2029 (shkronjat “a”, “c” dhe “d”); norma 5 për qind për prodhuesit e software-ve të regjistruar para hyrjes në fuqi, deri më 31 dhjetor 2025 (shkronja “ç”, e cila sipas nenit 72 i fillon efektet me hyrjen në fuqi); përjashtimi dhjetëvjeçar për hotelet dhe resortet me katër dhe pesë yje me status special dhe markë ndërkombëtare, për ato që e përfitojnë statusin deri në dhjetor 2026, me efekte që fillojnë me veprimtarinë, por jo më vonë se 5 vjet nga marrja e statusit (shkronja “b”); si dhe norma 0 për qind deri më 31 dhjetor 2029 për individët tregtarë, të vetëpunësuarit dhe entitetet me të ardhura bruto deri në 14 milionë lekë (shkronja “dh”). Kjo e fundit ka ndikim të madh praktik për bizneset e vogla. Shkronjat “e”, “ë” dhe “f” rregullojnë formularët, parapagimet e profesionistëve dhe deklaratën e tatimit në burim për vitet 2024–2025.
 
-Pika 2 përmban tabelën mujore të tatimit për pagat nga 1 qershori 2023 deri më 31 dhjetor 2024; burimi e paraqet atë në kolona. E lexuar sipas rreshtave: për paga deri në 50 000 lekë norma është 0 për qind; për paga nga 50 001 deri në 60 000 lekë, 0 për qind deri në 35 000 lekë dhe 13 për qind mbi 35 000 lekë; për paga mbi 60 001 lekë, 0 për qind deri në 30 000 lekë, 13 për qind për pjesën nga 30 001 deri në 200 000 lekë dhe 22 100 lekë plus 23 për qind mbi 200 000 lekë. Pika 3 kufizon nenin 54 te humbjet nga viti 2024, pika 4 përjashtonte eksportuesit në përpunim aktiv nga disa këste të vitit 2023, ndërsa pika 5 ruan zbatimin e ligjit të vjetër deri në fillimin e efekteve të ligjit të ri.
+Pika 2 përmban tabelën mujore të tatimit për pagat nga 1 qershori 2023 deri më 31 dhjetor 2024, me tri kolona (paga, e ardhura e tatueshme dhe norma tatimore). Sipas rreshtave të saj: për paga deri në 50 000 lekë norma është 0 për qind; për paga nga 50 001 deri në 60 000 lekë, 0 për qind deri në 35 000 lekë dhe 13 për qind mbi 35 000 lekë; për paga mbi 60 001 lekë, 0 për qind deri në 30 000 lekë, 13 për qind për pjesën nga 30 001 deri në 200 000 lekë dhe 22 100 lekë plus 23 për qind mbi 200 000 lekë. Pika 3 kufizon nenin 54 te humbjet nga viti 2024, pika 4 përjashtonte eksportuesit në përpunim aktiv nga disa këste të vitit 2023, ndërsa pika 5 ruan zbatimin e ligjit të vjetër deri në fillimin e efekteve të ligjit të ri.
 
 Pika 6, e shtuar me aktin normativ nr. 4/2024, rregullon pasojat e vendimit nr. 52, datë 27.6.2024, të Gjykatës Kushtetuese, i cili shfuqizoi vendimin e Këshillit të Ministrave nr. 753, datë 20.12.2023, për dispozitat zbatuese të ligjit: parapagimet e paguara ose të gjeneruara nga të vetëpunësuarit dhe entitetet me të ardhura deri në 14 milionë lekë që ofrojnë shërbime profesionale u rimbursohen ose fshihen brenda 30 dhjetorit 2024.
 

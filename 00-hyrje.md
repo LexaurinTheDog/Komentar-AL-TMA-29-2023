@@ -23,7 +23,7 @@ Ligji ndahet në tetë krerë: dispozita të përgjithshme (kreu I), tatimi mbi 
 
 ## Metoda
 
-- Teksti i dispozitave është marrë **fjalë për fjalë** dhe në mënyrë automatike (me një skript analizues) nga teksti zyrtar i konsoliduar i QBZ, pa shkurtime; rreshtat e ndarë nga faqosja e dokumentit janë bashkuar në paragrafë, ndërsa tabelat e normave tatimore (neni 24) dhe tabela kalimtare (neni 69 pika 2) janë riprodhuar me ndarësin “|” sipas renditjes që ka teksti burimor.
+- Teksti i dispozitave është marrë **fjalë për fjalë** dhe në mënyrë automatike (me një skript analizues) nga teksti zyrtar i konsoliduar i QBZ, pa shkurtime; rreshtat e ndarë nga faqosja e dokumentit janë bashkuar në paragrafë, ndërsa tabelat e normave tatimore (neni 24) dhe tabela kalimtare (neni 69 pika 2) janë riprodhuar rresht pas rreshti (një rresht i tabelës për paragraf), ashtu siç i jep teksti burimor.
 - Shënimet redaktuese të tekstit të konsoliduar mbi ndryshimet e neneve (p.sh. “Shtuar … me ligjin nr. 81/2025”) dhe shënimet zyrtare të titullit të ligjit janë dhënë nën tekstin e nenit përkatës.
 - Komentari është hartuar **vetëm mbi bazën e materialeve lokale** (teksti zyrtar i aktit dhe metadatat e tij), pa përdorur baza të dhënash juridike komerciale. **Praktika gjyqësore nuk është pjesë e këtij versioni**; vendimet e gjykatave përmenden vetëm kur rrjedhin nga vetë teksti i ligjit. Praktika gjyqësore do të shtohet në një fazë të veçantë.
 - Aktet nënligjore të nxjerra në zbatim të ligjit (vendime të Këshillit të Ministrave, udhëzime të ministrit përgjegjës për financat) nuk janë objekt i komentarit; ato përmenden vetëm aty ku ligji u referohet.
